@@ -1,0 +1,18 @@
+{
+  "name": "ts-dataobjects-init",
+  "version": "1.0.0",
+  "description": "Typescript instanceof checks",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/ts-node/dist/bin.js index.ts"
+  },
+  "author": "Andrei-Flavius IVAN",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.10"
+  }
+}
